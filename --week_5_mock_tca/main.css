@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.thin{
+    width: 80%;
+    text-align: center;
+}
+
+
+body {
+    font-family: 'arial serif';
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+
+
+.wrapper {
+    width: 920px;
+    margin: 0 auto;
+}
+
+nav {
+    padding: 0% 1% 1% 1%;
+}
+
+
+nav ul {
+    margin: 0 auto;
+  
+}
+    
+
+nav ul li {
+    display: inline;
+    margin-right: 15%;
+}
+
+
+
+.about, .background {
+    width: 47%;
+    float: left;
+}
+
+footer {
+    text-align: center;
+}
+
+
+table, {
+    margin: 0 auto;
+    margin-top: 10%;
+  }
+
+
